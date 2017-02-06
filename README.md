@@ -3,9 +3,9 @@ A room-scale virtual reality game for the HTC Vive that places you in a post apo
 ### About
 This is the C++ side of a game I built using Unreal Engine 4. The game began as my final project for the Galvanize Full Stack program. I've since been updating it and adding new features.
 ### Info
-[Game Website - Includes Manual](http://zombiehomeinvasion.com/index.html)
-[Latest Build - 2.03GB](https://goo.gl/FQCqIQ)
-[My Website](http://nyedesign.org)
+- [Game Website - Includes Manual](http://zombiehomeinvasion.com/index.html)
+- [Latest Build - 2.03GB](https://goo.gl/FQCqIQ)
+- [My Website](http://nyedesign.org)
 ### Features
 - Room-scale VR environment with motion tracked controllers
 - Many interactive objects and weapons
